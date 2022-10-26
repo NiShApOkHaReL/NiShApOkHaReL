@@ -3,10 +3,10 @@
 🌱 I’m currently learning  HTml,CSS and Javascript
 💞️ I’m looking to collaborate on ...
 📫 How to reach me ...
-
+---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NiShApOkHaReL)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiShApOkHaReL&show_icons=true&theme=radical)
+---
+![Nisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiShApOkHaReL&show_icons=true&theme=radical)
 
 
 <!---
