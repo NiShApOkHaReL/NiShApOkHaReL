@@ -7,7 +7,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NiShApOkHaReL&theme=dark)](https://git.io/streak-stats)
 ---
-![Nisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiShApOkHaReL&show_icons=true&theme=radical)
+![Nisha's GitHub status](https://github-readme-stats.vercel.app/api?username=NiShApOkHaReL&show_icons=true&theme=radical)
 
 
 <!---
