@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning  HTml,CSS and Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ..
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NiShApOkHaReL&theme=dark)](https://git.io/streak-stats)
