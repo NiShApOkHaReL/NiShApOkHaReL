@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @NiShApOkHaReL
+<h1 align="center">Hi 👋, I'm Nisha Pokharel</h1>
+<h3 align="center">A dedicated learner from Nepal</h3>
+<br>
+<p>Enthusiastic computer engineering student at United Technical College, passionate about AI, data science, and programming. Eager to explore tech innovations, I also enjoy learning web development. Committed to continuous learning and harnessing hard work for a successful tech career.</p>
+
+- 👋 Hi, I’m Nisha Pokharel
 - 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning  HTml,CSS and Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
+- 🌱 I’m currently learning  Data Science
+- 📫 How to reach me **nishapokharel0317@gmail.com**
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NiShApOkHaReL&theme=dark)](https://git.io/streak-stats)
