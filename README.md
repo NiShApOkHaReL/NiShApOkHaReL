@@ -17,7 +17,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NiShApOkHaReL&theme=dark)](https://git.io/streak-stats)
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiShApOkHaReL&show_icons=true&theme=radical)
-<br>
+
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiShApOkHaReL&layout=compact)](https://github.com/NiShApOkHaReL)
